@@ -2,6 +2,8 @@
 the roblox plugin
 hi yeah this is me
 
+av 1 ~ 361 can be found in the old repository: [moon-animator](https://github.com/zildjibian/moon-animator/tree/main)
+
 ## Support Moon Animator!
 - <a href="https://www.patreon.com/moonanimator">Patreon</a>
 - <a href="https://create.roblox.com/store/plugins?creatorName=xsixx">Moon Animator Themes</a><br><br>
