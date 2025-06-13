@@ -1,8 +1,10 @@
 # moon-animator
 the roblox plugin<br>
-hi yeah this is me
+hi yeah this is me<br>
 
-av 1 ~ 361 can be found in the old repository: [moon-animator](https://github.com/zildjibian/moon-animator/tree/main)
+av 1 ~ 361 can be found in the old repository: [moon-animator](https://github.com/zildjibian/moon-animator/tree/main)<br>
+
+feel free to dm me in discord if u need anything (zildji_bian)
 
 ## Support Moon Animator!
 - <a href="https://www.patreon.com/moonanimator">Patreon</a>
